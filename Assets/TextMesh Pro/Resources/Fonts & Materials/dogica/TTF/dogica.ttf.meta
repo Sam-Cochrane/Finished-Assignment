@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7e05ef9c0a27b794eb79ba22eb704405
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dogica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 198acbc1c1b9f9a4382e28c68eea2fc5, type: 3}
+  - {fileID: 12800000, guid: cb01ad386cd7e8046b94c00d56da3f7e, type: 3}
+  - {fileID: 12800000, guid: f4ce06e94b91b704e8bfa0fa364e5a34, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

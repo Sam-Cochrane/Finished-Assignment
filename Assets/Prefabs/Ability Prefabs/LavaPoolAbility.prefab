@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &814000742781460446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7980948184845841077}
+  - component: {fileID: 891116729848239563}
+  m_Layer: 8
+  m_Name: LavaPoolAbility
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7980948184845841077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814000742781460446}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -252.54678, y: 169.25244, z: 401.53455}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &891116729848239563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814000742781460446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e01bf860e85bfcb40a0136c7f61a2d83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 350329397517516586, guid: d1fda38dc2bb12047bcc70d753f5e6f4, type: 3}
+  baseCastTime: 3
+  castTime: 1.9200001
+  baseLevel: 0
+  level: 3
+  maxLevel: 5
+  soundEffect: {fileID: 8300000, guid: 53eff0f7d7f74834696ff9bac14417c1, type: 3}
+  projectile: {fileID: 6726200430822132887, guid: 4846852238b1da3479384622e26d1dce, type: 3}
+  pos: {x: -4.741856, y: 0.5199973, z: -5.3474503}

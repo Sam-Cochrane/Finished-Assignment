@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TextLocalisation_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 360f484f55845ad4183ebd5cc92d9298, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 353228165120
+    m_Localized: "\rMaster-Lautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 899599175680
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1073998336000
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1213060485120
+    m_Localized: Soundeffekte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3712895029248
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4317558476800
+    m_Localized: "Suche nach dem K\xF6nig"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4594046996480
+    m_Localized: Spiel beginnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4765774385152
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4920946855936
+    m_Localized: Spiel verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178855608979456
+    m_Localized: Eben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 179519005265920
+    m_Localized: "T\xF6tet:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 179857066168320
+    m_Localized: "W\xE4hlen Sie Ihre Startf\xE4higkeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180550246207488
+    m_Localized: 'Gesundheit des Spielers:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180846204686336
+    m_Localized: 'Spielerangriff:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181199256031232
+    m_Localized: 'Spielergeschwindigkeit:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181686227308544
+    m_Localized: "XP bis zum n\xE4chsten Level:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181899641884672
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214993866461184
+    m_Localized: Versuchen Sie es erneut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215391536812032
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218250143731712
+    m_Localized: Spiel ist aus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220511087497216
+    m_Localized: Du gewinnst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222527817912320
+    m_Localized: Nochmal abspielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222576060796928
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224846299140096
+    m_Localized: + 10 Gesundheit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225152743378944
+    m_Localized: + 2 Attacke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228309468844032
+    m_Localized: + 0.5 Geschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228988228866048
+    m_Localized: Maximale Gesundheit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229244488257536
+    m_Localized: Spielerangriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229682327457792
+    m_Localized: Spielergeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229915165855744
+    m_Localized: Aufleveln
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
